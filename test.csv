@@ -1,0 +1,6 @@
+SMILES,Name
+CC(=O)Oc1ccccc1C(=O)O,aspirin
+CC(C)Cc1ccc(C(C)C(=O)O)cc1,ibuprofen
+c1ccc2ccccc2c1,naphthalene
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCC,C30-alkane
+CC(=O)NC(C)C(=O)NC(C)C(=O)NC(C)C(=O)NC(C)C(=O)NC(C)C(=O)NC(C)C(=O)NC(C)C(=O)NC(C)C(=O)NC(C)C(=O)O,polyalanine-10
